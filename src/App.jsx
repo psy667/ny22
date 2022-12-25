@@ -24,10 +24,10 @@ const treeRaw = `
  │ │                 .!5P5YYYYY5*5YYYYYYY*5J^                    _/_(/_(_/(_/ (_                        │ │
  │ │             .:!YPP5YYY555555YYYYYYYYYY55Y?~:               //                                      │ │
  │ │        :~7J5PGPP5*55PPPP*5YY5Y*YYYY5*Y555555YJ7~^.        (/                                       │ │
- │ │        :~?Y*PPPP*YYPP*55YY5YYYYYYY*Y55J*JYY*YJ?!^.            _,                                   │ │
- │ │               ..^75P5Y555YYYY*YYYYY5Y5Y7~:.                  / |                /                  │ │
- │ │          .:~!?*5PP5*5PP55Y5Y*YYYYYYYY5555YJ7~^:.            /--|  _  ,_, , (   /_  __,             │ │
- │ │           .^~!~~5P*PPP5Y*YYYYYYYYYYYYY*5Y7*^~^:.          _/   |_/ |/ (_/_/_)_/ /_(_/(_            │ │
+ │ │        :~?Y*PPPP*YYPP*55YY5YYYYYYY*Y55J*JYY*YJ?!^.                                                 │ │
+ │ │               ..^75P5Y555YYYY*YYYYY5Y5Y7~:.                                                        │ │
+ │ │          .:~!?*5PP5*5PP55Y5Y*YYYYYYYY5555YJ7~^:.                                                   │ │
+ │ │           .^~!~~5P*PPP5Y*YYYYYYYYYYYYY*5Y7*^~^:.                                                   │ │
  │ │               .JPPPPP5YYYYYY555*YYY555555Y?:                                                       │ │
  │ │            .^JGGPP55YYY55555PP5Y*5555Y*55555Y!.                                                    │ │
  │ │        .:!JPG*P5555*PPPPPG*BB*5YYJ!:..:7*55*555J!^.                                                │ │
